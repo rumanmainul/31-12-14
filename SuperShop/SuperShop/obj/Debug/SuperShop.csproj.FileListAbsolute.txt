@@ -1,0 +1,10 @@
+D:\Project\28-12-14\SuperShop\SuperShop\bin\Debug\SuperShop.exe.config
+D:\Project\31-12-14\SuperShop\SuperShop\bin\Debug\SuperShop.exe.config
+D:\Project\31-12-14\SuperShop\SuperShop\bin\Debug\SuperShop.exe
+D:\Project\31-12-14\SuperShop\SuperShop\bin\Debug\SuperShop.pdb
+D:\Project\31-12-14\SuperShop\SuperShop\obj\Debug\SuperShop.csprojResolveAssemblyReference.cache
+D:\Project\31-12-14\SuperShop\SuperShop\obj\Debug\SuperShop.SuperShopUI.resources
+D:\Project\31-12-14\SuperShop\SuperShop\obj\Debug\SuperShop.Properties.Resources.resources
+D:\Project\31-12-14\SuperShop\SuperShop\obj\Debug\SuperShop.csproj.GenerateResource.Cache
+D:\Project\31-12-14\SuperShop\SuperShop\obj\Debug\SuperShop.exe
+D:\Project\31-12-14\SuperShop\SuperShop\obj\Debug\SuperShop.pdb

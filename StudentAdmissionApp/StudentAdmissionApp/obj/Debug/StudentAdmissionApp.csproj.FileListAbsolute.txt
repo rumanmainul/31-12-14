@@ -1,0 +1,2 @@
+D:\Project\28-12-14\StudentAdmissionApp\StudentAdmissionApp\bin\Debug\StudentAdmissionApp.exe.config
+F:\31-12-14\StudentAdmissionApp\StudentAdmissionApp\bin\Debug\StudentAdmissionApp.exe.config
